@@ -1,0 +1,6 @@
+{
+  "name": "JFT-Basic Exam Simulator",
+  "description": "Personal CBT mock test simulator for Japan Foundation Test for Basic Japanese (JFT-Basic A2) with audio player, Bengali explanations, practice mode, and Google Forms export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
